@@ -19,7 +19,6 @@
     section#login > div#formulario {
         float: right;
         width: 70%;
-        height: 100%;
     }
 
     div#formulario > h1 {
@@ -45,7 +44,6 @@
     section#login > div#formulario {
         float: left;
         width: 50%;
-        height: 100%;
     }
 
     div#formulario > h1 {
