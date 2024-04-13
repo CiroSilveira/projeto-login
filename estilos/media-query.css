@@ -7,7 +7,8 @@
     }
     
     section#login {
-        width: 70vw;
+        width: 80vw;
+        height: 305px;
     }
 
     section#login > div#imagem {
@@ -25,14 +26,16 @@
         font-size: 1.5em;
     }
 
-    div#formulario > p{
+    div#formulario > p {
         font-size: 1em;
+        padding: 10px 0px;
     }
 }
 
 @media screen and (min-width: 992px) {
     section#login {
-        width: 85vw;
+        width: 950px;
+        height: 320px;
     }
 
     section#login > div#imagem {
@@ -50,8 +53,9 @@
         font-size: 2em;
     }
 
-    div#formulario > p{
-        font-size: 1.2em;
+    div#formulario > p {
+        font-size: 1em;
+        margin: 20px 0px;
     }
 }
 
