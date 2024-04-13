@@ -82,7 +82,7 @@ form > div.campo > input {
     padding: 4px;
     border-radius: 8px;
     border: none;
-    transform: translateY(-10px);
+    transform: translateY(-11px);
 }
 
 form > div.campo > input:focus-within {
